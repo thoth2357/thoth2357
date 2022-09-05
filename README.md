@@ -10,9 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thoth2357&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thoth2357&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thoth2357&theme=2077&utcOffset=8)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C737%20hrs-blue)
@@ -84,3 +82,6 @@ HTML                     2 repos             ███░░░░░░░░�
 
  Last Updated on 05/09/2022 01:13:15 UTC
 <!--END_SECTION:waka-->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thoth2357&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thoth2357&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thoth2357&theme=2077&utcOffset=8)
