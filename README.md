@@ -85,6 +85,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
  Last Updated on 04/10/2022 19:03:19 UTC
 <!--END_SECTION:waka-->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thoth2357&theme=2077)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thoth2357&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thoth2357&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thoth2357&theme=2077&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thoth2357&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thoth2357&theme=2077&utcOffset=8) -->
