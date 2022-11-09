@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Million%20lines%20of%20code-blue)
 
@@ -95,7 +95,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/thoth2357/thoth2357/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 18:59:14 UTC
+ Last Updated on 09/11/2022 18:47:12 UTC
 <!--END_SECTION:waka-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thoth2357&theme=2077)
 
