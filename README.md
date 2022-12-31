@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
  > 
 > 📦 128.2 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+>    Opted to Hire
  > 
 > 📜 19 Public Repositories 
  > 
