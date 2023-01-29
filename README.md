@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C972%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C973%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,18 +60,18 @@ Sunday       72 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   8 hrs 40 mins       ████████████████████████░   97.84% 
-CSV                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
+Python                   6 hrs 48 mins       ████████████████████████░   97.95% 
+CSV                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
 
 🔥 Editors: 
-VS Code                  8 hrs 52 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 57 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Heart_Failure_Prediction 8 hrs 24 mins       ███████████████████████░░   94.73% 
-Senitivity_analysis      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.27%
+Heart_Failure_Prediction 6 hrs 29 mins       ███████████████████████░░   93.28% 
+Senitivity_analysis      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.72%
 
 💻 Operating System: 
-Linux                    8 hrs 52 mins       █████████████████████████   100.0%
+Linux                    6 hrs 57 mins       █████████████████████████   100.0%
 
 ```
 
@@ -88,7 +88,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2023 18:37:30 UTC
+ Last Updated on 29/01/2023 18:37:10 UTC
 <!--END_SECTION:waka-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thoth2357&theme=2077)
 
