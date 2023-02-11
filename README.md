@@ -60,21 +60,16 @@ Sunday          72 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Python                   13 mins             ██████████████████████░░░   90.90 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Heart_Failure_Prediction 11 mins             ███████████████████░░░░░░   77.84 % 
-gpt3-sandbox             3 mins              █████░░░░░░░░░░░░░░░░░░░░   22.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -91,7 +86,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2023 18:42:58 UTC
+ Last Updated on 11/02/2023 18:39:01 UTC
 <!--END_SECTION:waka-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thoth2357&theme=2077)
 
