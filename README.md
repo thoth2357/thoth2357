@@ -60,16 +60,17 @@ Sunday          72 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   39 mins             █████████████████████████   99.86 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Misc                     39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    39 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -86,7 +87,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2023 18:44:11 UTC
+ Last Updated on 14/02/2023 18:41:54 UTC
 <!--END_SECTION:waka-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thoth2357&theme=2077)
 
