@@ -9,11 +9,8 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C783%20hrs%2015%20mins-blue)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoth2357&label=Profile%20views&color=0e75b6&style=flat" alt="thoth2357" /> </p>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.0%20million%20lines%20of%20code-blue)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thoth2357&row=1&theme=gruvbox" alt="thoth2357" /></a> </p>
 
 <!--START_SECTION:waka-->
