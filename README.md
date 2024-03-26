@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thoth2357&label=Profile%20views&color=0e75b6&style=flat" alt="thoth2357" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thoth2357&row=1&theme=gruvbox" alt="thoth2357" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thoth2357&label=Profile%20views&color=0e75b6&style=flat" alt="thoth2357" /> </p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C798%20hrs%2056%20mins-blue)
