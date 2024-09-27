@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoth2357&label=Profile%20views&color=0e75b6&style=flat" alt="thoth2357" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C297%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C302%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.8%20million%20lines%20of%20code-blue)
 
@@ -46,16 +46,25 @@ Sunday                   679 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 58 mins        ██████████████░░░░░░░░░░░   54.28 % 
+Python                   47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+HTML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Text                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+fish                     1 hr 58 mins        ██████████████░░░░░░░░░░░   54.21 % 
+VS Code                  1 hr 40 mins        ███████████░░░░░░░░░░░░░░   45.79 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Terminal                 54 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+sign2text                47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Sign-Language-Translator-43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+SLT                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+BSL-Interpreter          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,7 +80,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2024 18:44:02 UTC
+ Last Updated on 27/09/2024 18:44:11 UTC
 <!--END_SECTION:waka-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thoth2357&theme=2077)
 
