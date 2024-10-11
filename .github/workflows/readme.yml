@@ -23,5 +23,7 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_UPDATED_DATE: "True"
           SHOW_PROFILE_VIEWS: "False"
+          COMMIT_BY_ME: "True"
+          COMMIT_USERNAME: "thoth2357-bt"
 
           
