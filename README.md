@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoth2357&label=Profile%20views&color=0e75b6&style=flat" alt="thoth2357" /> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C437%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C437%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.3%20million%20lines%20of%20code-blue)
 
@@ -46,24 +46,16 @@ Sunday                   1304 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Other                    1 hr 56 mins        ████████████░░░░░░░░░░░░░   49.16 % 
-TypeScript               47 mins             █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Python                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Vue.js                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   2 hrs               █████████████░░░░░░░░░░░░   50.95 % 
-fish                     1 hr 53 mins        ████████████░░░░░░░░░░░░░   48.03 % 
-DockerDesktop            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Trip-Schedule            2 hrs 4 mins        █████████████░░░░░░░░░░░░   52.66 % 
-rovenow-admin            1 hr 51 mins        ████████████░░░░░░░░░░░░░   47.12 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 56 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +71,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2025 22:58:43 UTC
+ Last Updated on 08/06/2025 22:59:43 UTC
 <!--END_SECTION:waka-->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thoth2357&theme=2077)
 
